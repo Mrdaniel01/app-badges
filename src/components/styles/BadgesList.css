@@ -1,0 +1,31 @@
+.Badge-list {
+  margin: 10px 0;
+  padding: 15px;
+  box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.301);
+  display: flex;
+  background: #52575db9;
+  align-items: center;
+  justify-content: flex-start;
+  border-radius: 5px;
+  color: rgb(255, 255, 255);
+}
+
+h5 {
+  font-weight: 600;
+}
+
+h6 {
+  color: rgb(211, 245, 255);
+}
+
+.Badge-list img {
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  margin-right: 50px;
+}
+
+.Badge-list div p {
+  margin: 2px;
+}
+

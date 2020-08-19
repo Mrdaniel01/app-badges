@@ -1,0 +1,17 @@
+.navbar {
+  margin: 0;
+  width: 100%;
+  height: auto;
+  padding: 10px 30px;
+  background: #41444b;
+  font-size: 24px;
+}
+
+.navbar img {
+  width: 70px;
+  margin-right: 10px;
+}
+
+.navbar a {
+  color: white;
+}
